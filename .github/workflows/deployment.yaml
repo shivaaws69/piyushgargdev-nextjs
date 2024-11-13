@@ -21,8 +21,10 @@ jobs:
           node-version: '20'  # specify your app's Node.js version
 
       - name: Install dependencies
-        run: |
-          npm install --legacy-peer-deps
+        run: npm install --legacy-peer-deps  # or npm install --force if you prefer
+
+      - name: Install Vercel CLI
+        run: npm install -g vercel
 
       - name: Deploy to Vercel
         env:
@@ -30,5 +32,4 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
         run: |
-          curl -sL https://github.com/vercel/vercel/releases/download/v28.7.1/vercel-linux-amd64.tar.gz | tar -xz
-          ./vercel --token $VERCEL_TOKEN --confirm --prod --scope $VERCEL_ORG_ID
+          vercel --token $VERCEL_TOKEN --confirm --prod --scope $VERCEL_ORG_ID
