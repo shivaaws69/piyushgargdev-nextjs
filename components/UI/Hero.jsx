@@ -4,7 +4,7 @@ import SectionSubtitle from "./SectionSubtitle";
 import { Container, Row, Col, Button } from "reactstrap";
 import { BsDiscord } from "react-icons/bs";
 import Image from "next/image";
-import heroImg from "../../public/images/new_pic.jpg";
+import heroImg from "../../public/images/PiyushGarg.png";
 import classes from "../../styles/hero.module.css";
 import classNames from "../../styles/subtitle.module.css";
 
