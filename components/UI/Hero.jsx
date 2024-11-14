@@ -4,7 +4,7 @@ import SectionSubtitle from "./SectionSubtitle";
 import { Container, Row, Col, Button } from "reactstrap";
 import { BsDiscord } from "react-icons/bs";
 import Image from "next/image";
-import heroImg from "../../public/images/PiyushGarg.png";
+import heroImg from "../../public/images/new_pic.jpg";
 import classes from "../../styles/hero.module.css";
 import classNames from "../../styles/subtitle.module.css";
 
@@ -17,11 +17,11 @@ const Hero = () => {
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Piyush Garg</h2>
+              <h2 className="mt-3 mb-3">I&apos;m shiva Garg</h2>
               <h5 className="mb-4">Fullstack Developer & Instructor</h5>
               <p id="about-me">
-                Hi there! My name is Piyush Garg and I&rsquo;m a software
-                engineer with over 5 years of experience in the industry. I love
+                Hi there! My name is shiva G and I&rsquo;m a software
+                engineer Iam testing th rollback in vercel ok. I love
                 all things tech and coding, and on my channel, I share my
                 knowledge and experience with others.
               </p>
