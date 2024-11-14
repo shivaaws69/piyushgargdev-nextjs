@@ -8,7 +8,6 @@ import Contact from "../components/UI/Contact";
 import Blog from "../components/UI/Blog";
 import Terminal from "../components/UI/Terminal";
 import Testimonial from "../components/UI/Testimonial";
-
 import {
   getYoutubeChannelDataDefaultResponse,
   getYoutubeVideosDefaultResponse,
@@ -47,7 +46,7 @@ export default function Home({
         />
         <meta
           property="og:image"
-          content="https://www.piyushgarg.dev/images/seo.png"
+          content="https://www.piyushgarg.dev/images/new_pic.png"
         />
 
         {/* <!-- Twitter --> */}
