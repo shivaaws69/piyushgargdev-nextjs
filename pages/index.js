@@ -29,20 +29,20 @@ export default function Home({
     <Fragment>
       <Head>
         {/* <!-- Primary Meta Tags --> */}
-        <title>Piyush Garg - Dev and Instructor</title>
-        <meta name="title" content="Piyush Garg - Dev and Instructor" />
+        <title>shiva G - Dev and Instructor</title>
+        <meta name="title" content="shiva G - Dev and Instructor" />
         <meta
           name="description"
-          content="Hi there! My name is Piyush Garg and I’m a software engineer with over 5 years of experience in the industry. I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
+          content="Hi there! My name is shiva G and I’m a software engineer iam testing vercel for rollback I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
         />
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.piyushgarg.dev" />
-        <meta property="og:title" content="Piyush Garg - Dev and Instructor" />
+        <meta property="og:title" content="shiva G - Dev and Instructor" />
         <meta
           property="og:description"
-          content="Hi there! My name is Piyush Garg and I’m a software engineer with over 5 years of experience in the industry. I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
+          content="Hi there! My name is shiva G and I’m a software engineer iam testing vercel for rollback I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
         />
         <meta
           property="og:image"
@@ -54,11 +54,11 @@ export default function Home({
         <meta property="twitter:url" content="https://www.piyushgarg.dev" />
         <meta
           property="twitter:title"
-          content="Piyush Garg - Dev and Instructor"
+          content="shiva G - Dev and Instructor"
         />
         <meta
           property="twitter:description"
-          content="Hi there! My name is Piyush Garg and I’m a software engineer with over 5 years of experience in the industry. I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
+          content="Hi there! My name is shiva G and I’m a software engineer iam testing vercel for rollback I love all things tech and coding, and on my channel, I share my knowledge and experience with others. Whether you’re a beginner looking to learn the basics or an experienced developer looking to expand your skills, I’ve got something for you."
         />
         <meta
           property="twitter:image"
