@@ -20,10 +20,7 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m shiva Garg</h2>
               <h5 className="mb-4">Fullstack Developer & Instructor</h5>
               <p id="about-me">
-                Hi there! My name is shiva G and I&rsquo;m a software
-                engineer Iam testing th rollback in vercel ok. I love
-                all things tech and coding, and on my channel, I share my
-                knowledge and experience with others.
+                Hi there! My name is shiva G atetttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttvyuvyuyvuy.
               </p>
             </div>
             <div className="mt-5 flex place-content-center md:block">
@@ -83,10 +80,7 @@ const Hero = () => {
                 </h2>
                 <h5 className="mb-4">Fullstack Developer & Instructor</h5>
                 <p id="about-me" className="text-center">
-                  Hi there! My name is Piyush Garg and I&rsquo;m a software
-                  engineer with over 5 years of experience in the industry. I
-                  love all things tech and coding, and on my channel, I share my
-                  knowledge and experience with others.
+                  Hi there! Mbhjbhujbjbjhjnbhj j hjjhb hj j
                 </p>
               </div>
             </div>
