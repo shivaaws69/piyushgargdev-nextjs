@@ -20,7 +20,7 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m shiva Garg</h2>
               <h5 className="mb-4">Fullstack Developer & Instructor</h5>
               <p id="about-me">
-                Hi there! My name is shiva G atetttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttvyuvyuyvuy.
+                Hi there! My name is shiva G 
               </p>
             </div>
             <div className="mt-5 flex place-content-center md:block">
